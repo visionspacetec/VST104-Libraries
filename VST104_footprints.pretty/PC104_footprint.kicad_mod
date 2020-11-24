@@ -226,32 +226,32 @@
   (pad MH1 thru_hole circle (at 8.89 -93.205) (size 0.8 0.8) (drill 0.5) (layers *.Cu *.Mask))
   (pad MH1 thru_hole circle (at 10.587056 -89.107944) (size 0.8 0.8) (drill 0.5) (layers *.Cu *.Mask))
   (pad MH1 thru_hole circle (at 11.29 -90.805) (size 0.8 0.8) (drill 0.5) (layers *.Cu *.Mask))
-  (model C:/Users/Filip.Filip/Documents/VST104/VST104_footprints.pretty/3D_models/ESQ-126-38-x-D.step
+  (model ${KIPRJMOD}/VST104-Libraries/VST104_footprints.pretty/3D_models/ESQ-126-38-x-D.step
     (offset (xyz 45.72 89.5 2.55))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
   )
-  (model C:/Users/Filip.Filip/Documents/VST104/VST104_footprints.pretty/3D_models/ESQ-126-38-x-D.step
+  (model ${KIPRJMOD}/VST104-Libraries/VST104_footprints.pretty/3D_models/ESQ-126-38-x-D.step
     (offset (xyz 45.72 84.45 2.55))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
   )
-  (model C:/Users/Filip.Filip/Documents/VST104/VST104_footprints.pretty/3D_models/spacer_10mm_5mm_M3.step
+  (model ${KIPRJMOD}/VST104-Libraries/VST104_footprints.pretty/3D_models/spacer_10mm_5mm_M3.step
     (offset (xyz 5.1 5.1 10))
     (scale (xyz 1 1 1))
     (rotate (xyz -180 0 0))
   )
-  (model C:/Users/Filip.Filip/Documents/VST104/VST104_footprints.pretty/3D_models/spacer_10mm_5mm_M3.step
+  (model ${KIPRJMOD}/VST104-Libraries/VST104_footprints.pretty/3D_models/spacer_10mm_5mm_M3.step
     (offset (xyz 85.09999999999999 5.1 10))
     (scale (xyz 1 1 1))
     (rotate (xyz -180 0 0))
   )
-  (model C:/Users/Filip.Filip/Documents/VST104/VST104_footprints.pretty/3D_models/spacer_10mm_5mm_M3.step
+  (model ${KIPRJMOD}/VST104-Libraries/VST104_footprints.pretty/3D_models/spacer_10mm_5mm_M3.step
     (offset (xyz 8.9 90.8 10))
     (scale (xyz 1 1 1))
     (rotate (xyz -180 0 0))
   )
-  (model C:/Users/Filip.Filip/Documents/VST104/VST104_footprints.pretty/3D_models/spacer_10mm_5mm_M3.step
+  (model ${KIPRJMOD}/VST104-Libraries/VST104_footprints.pretty/3D_models/spacer_10mm_5mm_M3.step
     (offset (xyz 82.55 90.8 10))
     (scale (xyz 1 1 1))
     (rotate (xyz -180 0 0))

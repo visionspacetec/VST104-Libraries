@@ -19,7 +19,7 @@
   (fp_line (start -2.3 -0.75) (end -2.3 0.75) (layer F.SilkS) (width 0.16))
   (pad 2 smd rect (at 1.525 0) (size 1.05 1.5) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at -1.525 0) (size 1.05 1.5) (layers F.Cu F.Paste F.Mask))
-  (model C:/Users/Filip.Filip/Documents/VST104/VST104_footprints.pretty/3D_models/Power-DI-123_2.8x1.8x1mm.step
+  (model ${KIPRJMOD}/VST104-Libraries/VST104_footprints.pretty/3D_models/Power-DI-123_2.8x1.8x1mm.step
     (offset (xyz 0 -0.9 0.5))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 90 0))

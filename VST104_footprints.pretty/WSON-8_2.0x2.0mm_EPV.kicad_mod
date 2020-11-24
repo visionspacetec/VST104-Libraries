@@ -33,7 +33,7 @@
   (pad 1 smd rect (at -0.95 -0.75) (size 0.5 0.25) (layers F.Cu F.Paste F.Mask))
   (pad 10 smd rect (at 0 0.45) (size 0.9 0.7) (layers F.Paste))
   (pad 10 smd rect (at 0 -0.45) (size 0.9 0.7) (layers F.Paste))
-  (model C:/Users/Filip.Filip/Documents/VST104/VST104_footprints.pretty/3D_models/WSON-8_2.0x2.0mm.step
+  (model ${KIPRJMOD}/VST104-Libraries/VST104_footprints.pretty/3D_models/WSON-8_2.0x2.0mm.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

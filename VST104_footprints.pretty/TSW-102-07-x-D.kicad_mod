@@ -28,12 +28,12 @@
   (pad 3 thru_hole rect (at 1.27 1.27 180) (size 1.75 1.75) (drill 0.85) (layers *.Cu *.Mask))
   (pad 2 thru_hole rect (at -1.27 -1.27) (size 1.75 1.75) (drill 0.85) (layers *.Cu *.Mask))
   (pad 4 thru_hole rect (at 1.27 -1.27) (size 1.75 1.75) (drill 0.85) (layers *.Cu *.Mask))
-  (model C:/Users/Filip.Filip/Documents/VST104/VST104_footprints.pretty/3D_models/TSW-102-07-x-D.step
+  (model ${KIPRJMOD}/VST104-Libraries/VST104_footprints.pretty/3D_models/TSW-102-07-x-D.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
   )
-  (model C:/Users/Filip.Filip/Documents/VST104/VST104_footprints.pretty/3D_models/MNT-102-BK-x.step
+  (model ${KIPRJMOD}/VST104-Libraries/VST104_footprints.pretty/3D_models/MNT-102-BK-x.step
     (offset (xyz 0 0 8.5))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 -90))

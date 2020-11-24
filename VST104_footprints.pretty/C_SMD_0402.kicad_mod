@@ -18,12 +18,12 @@
   (fp_line (start -0.5 0.25) (end -0.5 -0.25) (layer F.Fab) (width 0.1))
   (pad 1 smd rect (at -0.5 0) (size 0.5 0.6) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 0.5 0) (size 0.5 0.6) (layers F.Cu F.Paste F.Mask))
-  (model C:/Users/Filip.Filip/Documents/VST104/VST104_footprints.pretty/3D_models/C_SMD_0402.wrl
+  (model ${KIPRJMOD}/VST104-Libraries/VST104_footprints.pretty/3D_models/C_SMD_0402.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model C:/Users/Filip.Filip/Documents/VST104/VST104_footprints.pretty/3D_models/C_SMD_0402.step
+  (model ${KIPRJMOD}/VST104-Libraries/VST104_footprints.pretty/3D_models/C_SMD_0402.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

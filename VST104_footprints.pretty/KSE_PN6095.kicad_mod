@@ -17,7 +17,7 @@
   (fp_line (start -2.748 -4.76) (end 2.748 -4.76) (layer F.Fab) (width 0.1))
   (fp_line (start 2.748 4.76) (end -2.748 4.76) (layer F.Fab) (width 0.1))
   (pad 1 thru_hole circle (at 0 0) (size 9.52 9.52) (drill 7.14) (layers *.Cu *.Mask))
-  (model C:/Users/Filip.Filip/Documents/VST104/VST104_footprints.pretty/3D_models/KSE_PN6095.step
+  (model ${KIPRJMOD}/VST104-Libraries/VST104_footprints.pretty/3D_models/KSE_PN6095.step
     (offset (xyz 1.1 1.4 -3))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

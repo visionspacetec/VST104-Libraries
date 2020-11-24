@@ -124,7 +124,7 @@
     (clearance 0.2))
   (pad 1 thru_hole circle (at 0 0) (size 1.365 1.365) (drill 0.8) (layers *.Cu *.Mask)
     (clearance 0.2))
-  (model C:/Users/Filip.Filip/Documents/VST104/VST104_footprints.pretty/3D_models/ESQ-126-39-x-D.step
+  (model ${KIPRJMOD}/VST104-Libraries/VST104_footprints.pretty/3D_models/ESQ-126-39-x-D.step
     (offset (xyz 31.75 1.275 2.5))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

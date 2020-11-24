@@ -151,7 +151,7 @@
   (pad L7 smd circle (at 0.25 2.25) (size 0.27 0.27) (layers F.Cu F.Paste F.Mask))
   (pad L5 smd circle (at -0.75 2.25) (size 0.27 0.27) (layers F.Cu F.Paste F.Mask))
   (pad L6 smd circle (at -0.25 2.25) (size 0.27 0.27) (layers F.Cu F.Paste F.Mask))
-  (model C:/Users/Filip.Filip/Documents/VST104/VST104_footprints.pretty/3D_models/UFBGA-132_7.0x7.0mm.step
+  (model ${KIPRJMOD}/VST104-Libraries/VST104_footprints.pretty/3D_models/UFBGA-132_7.0x7.0mm.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

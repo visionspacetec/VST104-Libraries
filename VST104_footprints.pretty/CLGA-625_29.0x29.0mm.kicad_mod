@@ -644,7 +644,7 @@
   (pad C1 smd circle (at 12 -10) (size 0.68 0.68) (layers F.Cu F.Paste F.Mask))
   (pad B1 smd circle (at 12 -11) (size 0.68 0.68) (layers F.Cu F.Paste F.Mask))
   (pad A1 smd circle (at 12 -12) (size 0.68 0.68) (layers F.Cu F.Paste F.Mask))
-  (model C:/Users/Filip.Filip/Documents/VST104/VST104_footprints.pretty/3D_models/CLGA-625_29.0x29.0mm.step
+  (model ${KIPRJMOD}/VST104-Libraries/VST104_footprints.pretty/3D_models/CLGA-625_29.0x29.0mm.step
     (at (xyz 0 0 0))
     (scale (xyz 1.38095 1.38095 1))
     (rotate (xyz 0 0 0))

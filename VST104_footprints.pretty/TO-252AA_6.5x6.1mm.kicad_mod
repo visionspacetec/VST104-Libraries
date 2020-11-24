@@ -45,7 +45,7 @@
   (pad 2 smd rect (at 2.285 0 180) (size 1.3 2.15) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at 0 -6.665) (size 5.5 5.7) (layers F.Cu F.Mask))
   (pad 1 smd rect (at -2.285 0) (size 1.3 2.15) (layers F.Cu F.Paste F.Mask))
-  (model C:/Users/Filip.Filip/Documents/VST104/VST104_footprints.pretty/3D_models/TO-252AA_6.5x6.1mm.step
+  (model ${KIPRJMOD}/VST104-Libraries/VST104_footprints.pretty/3D_models/TO-252AA_6.5x6.1mm.step
     (offset (xyz 0 5 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -25,7 +25,7 @@
   (pad 5 smd rect (at 3.6 1.905) (size 1.6 0.6) (layers F.Cu F.Paste F.Mask))
   (pad 6 smd rect (at 3.6 0.635) (size 1.6 0.6) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at -3.6 0.635) (size 1.6 0.6) (layers F.Cu F.Paste F.Mask))
-  (model C:/Users/Filip.Filip/Documents/VST104/VST104_footprints.pretty/3D_models/SOIC-8_208_5.23x5.23mm.step
+  (model ${KIPRJMOD}/VST104-Libraries/VST104_footprints.pretty/3D_models/SOIC-8_208_5.23x5.23mm.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

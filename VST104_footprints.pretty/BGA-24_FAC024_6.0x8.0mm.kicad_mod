@@ -43,7 +43,7 @@
   (pad C1 smd circle (at -0.5 1.5 180) (size 0.4 0.4) (layers F.Cu F.Paste F.Mask))
   (pad B1 smd circle (at -1.5 1.5 180) (size 0.4 0.4) (layers F.Cu F.Paste F.Mask))
   (pad A1 smd circle (at -2.5 1.5 180) (size 0.4 0.4) (layers F.Cu F.Paste F.Mask))
-  (model C:/Users/Filip.Filip/Documents/VST104/VST104_footprints.pretty/3D_models/BGA-24_FAC024_6.0x8.0mm.step
+  (model ${KIPRJMOD}/VST104-Libraries/VST104_footprints.pretty/3D_models/BGA-24_FAC024_6.0x8.0mm.step
     (offset (xyz 0 0 -0.5))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 -90))

@@ -23,7 +23,7 @@
   (pad 3 smd rect (at -0.9 0.75) (size 0.6 0.6) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at -0.9 0) (size 0.6 0.4) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at -0.9 -0.75) (size 0.6 0.6) (layers F.Cu F.Paste F.Mask))
-  (model C:/Users/Filip.Filip/Documents/VST104/VST104_footprints.pretty/3D_models/SOT-363_TSSOP-6_2.0x1.25mm.step
+  (model ${KIPRJMOD}/VST104-Libraries/VST104_footprints.pretty/3D_models/SOT-363_TSSOP-6_2.0x1.25mm.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -37,7 +37,7 @@
   (pad MP smd rect (at 3.65 1.85) (size 1 0.8) (layers F.Cu F.Paste F.Mask))
   (pad MP smd rect (at -3.65 -1.85) (size 1 0.8) (layers F.Cu F.Paste F.Mask))
   (pad MP smd rect (at 3.65 -1.85) (size 1 0.8) (layers F.Cu F.Paste F.Mask))
-  (model C:/Users/Filip.Filip/Documents/VST104/VST104_footprints.pretty/3D_models/slideSW_SSSS820101_2.0x1.5mm.step
+  (model ${KIPRJMOD}/VST104-Libraries/VST104_footprints.pretty/3D_models/slideSW_SSSS820101_2.0x1.5mm.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

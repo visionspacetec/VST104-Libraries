@@ -187,7 +187,7 @@
   (pad 142 smd rect (at -7.75 -10.6625) (size 0.3 1.475) (layers F.Cu F.Paste F.Mask))
   (pad 143 smd rect (at -8.25 -10.6625) (size 0.3 1.475) (layers F.Cu F.Paste F.Mask))
   (pad 144 smd rect (at -8.75 -10.6625) (size 0.3 1.475) (layers F.Cu F.Paste F.Mask))
-  (model C:/Users/Filip.Filip/Documents/VST104/VST104_footprints.pretty/3D_models/LQFP-144_20x20mm_P0.5mm.step
+  (model ${KIPRJMOD}/VST104-Libraries/VST104_footprints.pretty/3D_models/LQFP-144_20x20mm_P0.5mm.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

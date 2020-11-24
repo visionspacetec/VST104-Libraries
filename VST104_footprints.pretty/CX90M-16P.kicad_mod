@@ -46,7 +46,7 @@
   (pad B1 smd rect (at 3.25 -3.85) (size 0.35 0.9) (layers F.Cu F.Paste F.Mask))
   (pad A12 smd rect (at 3.75 -3.85) (size 0.35 0.9) (layers F.Cu F.Paste F.Mask))
   (pad MID smd rect (at 4.25 -3.85) (size 0.35 0.9) (layers F.Cu F.Paste F.Mask))
-  (model C:/Users/Filip.Filip/Documents/VST104/VST104_footprints.pretty/3D_models/CX90M-16P.step
+  (model ${KIPRJMOD}/VST104-Libraries/VST104_footprints.pretty/3D_models/CX90M-16P.step
     (offset (xyz 0 2.2 -1.2))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

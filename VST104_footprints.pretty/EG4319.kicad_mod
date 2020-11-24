@@ -40,7 +40,7 @@
   (pad MP thru_hole circle (at -2 1.75) (size 2.25 2.25) (drill 1.5) (layers *.Cu *.Mask))
   (pad MP thru_hole circle (at 20 1.75) (size 2.25 2.25) (drill 1.5) (layers *.Cu *.Mask))
   (pad MP thru_hole circle (at 20 -4.25) (size 2.25 2.25) (drill 1.5) (layers *.Cu *.Mask))
-  (model C:/Users/Filip.Filip/Documents/VST104/VST104_footprints.pretty/3D_models/EG4319.step
+  (model ${KIPRJMOD}/VST104-Libraries/VST104_footprints.pretty/3D_models/EG4319.step
     (offset (xyz 9 1.25 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
