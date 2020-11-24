@@ -8,11 +8,11 @@ During the work on individual schematics, mostly the KiCad vanilla symbols were 
 
 ### VST104_footprints.pretty
 To ensure the full controll over all of the used footprints we concluded to design all of them from scratch. All of the footprints listed and described in `VST_footprints.pretty` are created acordingly to relevant device datasheed. These footrpints also respects [KiCad courtyard requirements](https://kicad.org/libraries/klc/F5.3/). Other common features of som layers (in \[mm\]) are:
-* SilkScreen: `line thickness` 0.16
-* SilkScreen Text: `thickness` 0.16; `width` 0.8; `height` 0.8
-* Courtyard: `line thickness` 0.05
-* Fabrication: `line thickness` 0.05
-* Fabrication Text: `thickness` 0.1; `width` 0.5; `height` 0.5
+* SilkScreen: `line thickness: 0.16`
+* SilkScreen Text: `thickness: 0.16` ; `width: 0.8` ; `height: 0.8`
+* Courtyard: `line thickness: 0.05`
+* Fabrication: `line thickness: 0.05`
+* Fabrication Text: `thickness: 0.1` ; `width: 0.5` ; `height: 0.5`
 
 ### VST104_logos.pretty
 Various logos used on the SilkScreen layer are listed in this footprint library.
