@@ -7,7 +7,7 @@ This repository contains all of the KiCad libraries created and used in the VST1
 During the work on individual schematics, mostly the KiCad vanilla symbols were used. The custom symbols were created only in special cases where KiCad libraries did not provide the required symbol. These few symbols are listed and described in `VST_libraries` folder.
 
 ### VST104_footprints.pretty
-To ensure the full controll over all of the used footprints we concluded to design all of them from scratch. All of the footprints listed and described in `VST_footprints.pretty` are created acordingly to relevant device datasheed. These footrpints also respects [KiCad courtyard requirements](https://kicad.org/libraries/klc/F5.3/). Other common features of som layers (in \[mm\]) are:
+To ensure the full controll over all of the used footprints we concluded to design all of them from scratch. All of the footprints listed and described in `VST_footprints.pretty` are created acordingly to relevant device datasheed. These footrpints also respects [KiCad courtyard requirements](https://kicad.org/libraries/klc/F5.3/). Relevant 3D models in both `.step` and `.wrl` format are included for every footprints. Up to this point, only the `.step` variants are configured to work. Other common features of som layers (in [mm]) are:
 * SilkScreen: `line thickness: 0.16`
 * SilkScreen Text: `thickness: 0.16` ; `width: 0.8` ; `height: 0.8`
 * Courtyard: `line thickness: 0.05`
