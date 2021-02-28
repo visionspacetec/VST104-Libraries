@@ -1,4 +1,4 @@
-(module VisionSpaceLogo (layer F.Cu) (tedit 5EF308BA)
+(module VST_logo_horizontal_25.3mm (layer F.Cu) (tedit 603C24AC)
   (fp_text reference G*** (at 0 -2.54) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
