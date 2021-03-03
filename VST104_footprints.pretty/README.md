@@ -44,6 +44,7 @@ The following table list all of the available modules (footprints):
 | `L_SMD_8040_8.0x8.0x4.2mm` | inductor, 8040, SMD | inductor, 8040 |
 | `mini_QFN-16-1.8x2.6mm` | general mini Quad Flat No Leads, 16 pin | QFN, mQFN, mQFN-16 |
 | `MOLEX_501461-0891` | connector FPC, 8 contact, 0.5mm, 0.5A@50V | FPC, 0.5 |
+| `MountingHole_1.2mm` | mounting hole, 1.2mm  | mounting, mounting hole |
 | `MountingHole_3.2mm_M3_Pad_Via` | mounting hole, 3.2mm (M3), via pads,  | mounting, mounting hole, M3 |
 | `OKL-T6-W12` | specific DCDC convertor, muRata, SMD | DCDC, convertor, muRata |
 | `OKR-T6-W12` | specific DCDC convertor, muRata, THT | DCDC, convertor, muRata |
