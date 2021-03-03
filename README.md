@@ -61,6 +61,7 @@ The following table lists all of the created footprints:
 | `L_SMD_8040_8.0x8.0x4.2mm` | <sub>inductor, 8040, SMD</sub> | <sub>inductor, 8040</sub> |
 | `mini_QFN-16-1.8x2.6mm` | <sub>general mini Quad Flat No Leads, 16 pin</sub> | <sub>QFN, mQFN, mQFN-16</sub> |
 | `MOLEX_501461-0891` | <sub>connector FPC, 8 contact, 0.5mm, 0.5A@50V</sub> | <sub>FPC, 0.5</sub> |
+| `MountingHole_1.2mm` | <sub>mounting hole, 1.2mm</sub>  | <sub>mounting, mounting hole</sub> |
 | `MountingHole_3.2mm_M3_Pad_Via` | <sub>mounting hole, 3.2mm (M3), via pads</sub>  | <sub>mounting, mounting hole, M3</sub> |
 | `OKL-T6-W12` | <sub>specific DCDC convertor, muRata, SMD</sub> | <sub>DCDC, convertor, muRata</sub> |
 | `OKR-T6-W12` | <sub>specific DCDC convertor, muRata, THT</sub> | <sub>DCDC, convertor, muRata</sub> |
